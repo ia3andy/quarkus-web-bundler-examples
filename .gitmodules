@@ -1,3 +1,6 @@
 [submodule "blast"]
 	path = blast
 	url = https://github.com/ia3andy/quarkus-blast
+[submodule "react-bootstrap"]
+	path = react-bootstrap
+	url = https://github.com/ia3andy/quarkus-bundler-react
