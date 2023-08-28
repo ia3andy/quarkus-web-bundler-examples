@@ -4,3 +4,9 @@
 [submodule "react-bootstrap"]
 	path = react-bootstrap
 	url = https://github.com/ia3andy/quarkus-bundler-react
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/ia3andy/web-bundler-jquery
+[submodule "gradle-jquery"]
+	path = gradle-jquery
+	url = https://github.com/ia3andy/bundler-gradle-jquery
