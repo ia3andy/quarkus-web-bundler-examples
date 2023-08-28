@@ -10,3 +10,6 @@
 [submodule "gradle-jquery"]
 	path = gradle-jquery
 	url = https://github.com/ia3andy/bundler-gradle-jquery
+[submodule "renotes"]
+	path = renotes
+	url = https://github.com/ia3andy/renotes/
