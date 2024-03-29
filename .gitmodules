@@ -13,3 +13,6 @@
 [submodule "renotes"]
 	path = renotes
 	url = https://github.com/ia3andy/renotes/
+[submodule "patternfly-react"]
+	path = patternfly-react
+	url = https://github.com/ia3andy/quarkus-wb-patternfly-react
