@@ -16,3 +16,9 @@
 [submodule "patternfly-react"]
 	path = patternfly-react
 	url = https://github.com/ia3andy/quarkus-wb-patternfly-react
+[submodule "star-rating"]
+	path = star-rating
+	url = https://github.com/ia3andy/star-rating
+[submodule "htmx-todo"]
+	path = htmx-todo
+	url = https://github.com/ia3andy/htmx-todo
